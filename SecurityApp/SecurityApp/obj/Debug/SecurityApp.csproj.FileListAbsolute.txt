@@ -1,0 +1,10 @@
+C:\Users\Ahmed\source\repos\SecurityApp\SecurityApp\bin\Debug\SecurityApp.exe.config
+C:\Users\Ahmed\source\repos\SecurityApp\SecurityApp\bin\Debug\SecurityApp.exe
+C:\Users\Ahmed\source\repos\SecurityApp\SecurityApp\bin\Debug\SecurityApp.pdb
+C:\Users\Ahmed\source\repos\SecurityApp\SecurityApp\obj\Debug\SecurityApp.csprojAssemblyReference.cache
+C:\Users\Ahmed\source\repos\SecurityApp\SecurityApp\obj\Debug\SecurityApp.Form1.resources
+C:\Users\Ahmed\source\repos\SecurityApp\SecurityApp\obj\Debug\SecurityApp.Properties.Resources.resources
+C:\Users\Ahmed\source\repos\SecurityApp\SecurityApp\obj\Debug\SecurityApp.csproj.GenerateResource.cache
+C:\Users\Ahmed\source\repos\SecurityApp\SecurityApp\obj\Debug\SecurityApp.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\source\repos\SecurityApp\SecurityApp\obj\Debug\SecurityApp.exe
+C:\Users\Ahmed\source\repos\SecurityApp\SecurityApp\obj\Debug\SecurityApp.pdb
